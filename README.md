@@ -24,5 +24,20 @@ A few sample images from the training set are displayed to help you understand c
 - Implemented a fully connected Dense layer with 256 neurons and ReLU activation for feature learning.
 - Added a Dropout layer (33%) to prevent overfitting.
 - Used a sigmoid activation function in the output layer for binary classification tasks (0 or 1).
-# Model Visualisationn
+![Screenshot 2024-11-22 122434](https://github.com/user-attachments/assets/82dd6978-3324-4040-9e6d-9e5d8c9dab17)
+# Model Visualisation
 ![Screenshot 2024-11-17 224421](https://github.com/user-attachments/assets/db7a4b01-1390-419f-9b91-6e4bae0d61c5)
+# Training vs Validation (monitoring accuracy and loss)
+![Screenshot 2024-11-22 122508](https://github.com/user-attachments/assets/52c8b21c-e99b-456c-b261-9b9a5b394c1b)
+# Model Evaluation
+# Accuracy:92% 
+- The model correctly classified 92% of instances.
+# Precision/Recall/F1-Score:
+- def_front: Precision = 1.00, Recall = 0.87, F1 = 0.93 — The model perfectly identified def_front instances but missed some.
+- ok_front: Precision = 0.82, Recall = 1.00, F1 = 0.90 — The model perfectly identified ok_front instances with some false positives.
+# Confusion Matrix:
+The model correctly classified 395 def_front and 262 ok_front samples, with 58 false positives for def_front.
+# Sample predictions from the test set
+![Screenshot 2024-11-22 122536](https://github.com/user-attachments/assets/233515ec-56d2-4592-b7e6-48f46cefc32f)
+
+
