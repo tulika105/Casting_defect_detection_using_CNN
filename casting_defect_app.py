@@ -16,7 +16,7 @@ def preprocess_image(image):
     return img_array
 
 # Streamlit interface
-st.title('Casting defect detection in images')
+st.title('Casting defect detection')
 st.markdown("Upload any image")
 
 # Upload image section
