@@ -39,6 +39,6 @@ A few sample images from the training set are displayed to help you understand c
 The model correctly classified 395 def_front and 262 ok_front samples, with 58 false positives for def_front.
 # Sample predictions from the test set
 ![Screenshot 2024-11-22 122536](https://github.com/user-attachments/assets/233515ec-56d2-4592-b7e6-48f46cefc32f)
-
+# Model deployment
 https://castingdefectdetectionusingcnn-dv7oqpa4bbxopr2mdfdbug.streamlit.app/
 
