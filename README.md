@@ -1,4 +1,6 @@
 # Casting_defect_detection_using_CNN
+<img width="838" height="279" alt="Screenshot 2025-08-15 163143" src="https://github.com/user-attachments/assets/5b8300d3-c3cc-49f3-ba1d-ea844850e978" />
+
 # Introduction
 Casting is a manufacturing technique in which a liquid material is typically poured into a mold with a hollow cavity shaped to the desired form and allowed to solidify. A casting defect refers to an unwanted irregularity that occurs during the metal casting process.
 # Dataset Structure
